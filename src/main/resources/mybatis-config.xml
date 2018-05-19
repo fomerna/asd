@@ -5,7 +5,8 @@
 <configuration>
 
     <typeAliases>
-        <typeAlias type="com.doubles.mvcboard.article.domain.ArticleVO" alias="ArticleVO"/>
+        <typeAlias type="org.zerock.domain.BoardVO" alias="BoardVO"/>
+        <typeAlias type="org.zerock.domain.ReplyVO" alias="ReplyVO"/>
     </typeAliases>
 
 </configuration>

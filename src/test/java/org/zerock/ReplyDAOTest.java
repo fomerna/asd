@@ -1,4 +1,4 @@
-package com.doubles.mvcboard.article;
+package org.zerock;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,6 @@ import org.slf4j.LoggerFactory;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import org.zerock.domain.Criteria;
-import org.zerock.domain.PageMaker;
 import org.zerock.domain.ReplyVO;
 import org.zerock.persistence.ReplyDAO;
 

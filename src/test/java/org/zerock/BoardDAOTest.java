@@ -1,4 +1,4 @@
-package com.doubles.mvcboard.article;
+package org.zerock;
 
 import org.springframework.web.util.UriComponents;
 import org.springframework.web.util.UriComponentsBuilder;
